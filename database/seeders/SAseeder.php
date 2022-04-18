@@ -21,5 +21,11 @@ class SAseeder extends Seeder
             'password' => Hash::make('sa123'),
             'role' => 'sa'
         ]);
+        User::create([
+            'name' => 'jen',
+            'email' => 'jen@gmail.com',
+            'password' => Hash::make('u2s9r'),
+            'role' => 'fed'
+        ]);
     }
 }
