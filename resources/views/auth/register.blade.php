@@ -37,7 +37,7 @@
                         <button type="submit" class="form-control btn btn-primary rounded submit px-3">Register</button>
                     </div>
                   </form>
-                  <p class="text-center">Have an acoount ? <a href="{{route('login')}}">Sign In</a></p>
+                  <p class="text-center">Have an account ? <a href="{{route('login')}}">Sign In</a></p>
             </div>
           </div>
             </div>
